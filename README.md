@@ -1,3 +1,3 @@
-### Full Course Name: _N_umerical _M_ethods for _S_tochastic _D_ifferential _E_quations with Connections to _M_achine _L_earning
+### Full Course Name: Numerical Methods for Stochastic Differential Equations with Connections to Machine Learning
 
 Work for homerwork sets 2, 3, 5 & 6.
